@@ -15,7 +15,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Gojosatoru45/bot-Shinobu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NemasisDarkX/bot-Shinobu-master.git)
 
 
 
